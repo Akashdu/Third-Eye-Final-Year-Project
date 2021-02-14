@@ -1,4 +1,4 @@
-![Test Image 1](https://github.com/imakashsahu/Third-Eye-Final-Year-Project/blob/main/Logo.jpg)
+![Test Image 1](https://github.com/Akashdu/-Third-Eye-Final-Year-Project/blob/main/Logo.jpg)
 
 
 # THIRD EYE
